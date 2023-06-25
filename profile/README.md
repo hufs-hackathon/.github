@@ -33,3 +33,14 @@
     <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white"/>  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=KakaoTalk&logoColor=white"/> <img alt="KaKao Talk" src ="https://img.shields.io/badge/KakaoTalk-FFCD00?&style=for-the-badge&logo=KakaoTalk&logoColor=white"/>
 
 ###
+###
+![KakaoTalk_20230624_141716003](https://github.com/hufs-hackathon/server/assets/48826098/f3073742-12b9-4719-99ed-e74b82b6c09e)
+![KakaoTalk_20230624_141716003_01](https://github.com/hufs-hackathon/server/assets/48826098/c68bead1-0a25-416a-bed2-bc1b900f1f0a)
+![KakaoTalk_20230624_141716003_02](https://github.com/hufs-hackathon/server/assets/48826098/91565f23-8db5-4522-a500-d2be4f0dc587)
+![KakaoTalk_20230624_141716003_03](https://github.com/hufs-hackathon/server/assets/48826098/f6910ed8-58ed-4a92-b55d-5ccb089406d7)
+![KakaoTalk_20230624_141716003_04](https://github.com/hufs-hackathon/server/assets/48826098/0269197b-1566-453c-b573-b9ef97421233)
+![KakaoTalk_20230624_141716003_05](https://github.com/hufs-hackathon/server/assets/48826098/2514346d-1291-4488-a658-dbb7f424f48b)
+![KakaoTalk_20230624_141716003_06](https://github.com/hufs-hackathon/server/assets/48826098/f2715277-f132-4a58-bfa7-98a8e800646b)
+![KakaoTalk_20230624_141716003_07](https://github.com/hufs-hackathon/server/assets/48826098/729ebdc9-9f3b-4f90-9c68-a7b5d76e60d6)
+![KakaoTalk_20230624_141716003_08](https://github.com/hufs-hackathon/server/assets/48826098/7c11b14d-d002-42a4-af4e-8723d71a0877)
+![KakaoTalk_20230624_141716003_09](https://github.com/hufs-hackathon/server/assets/48826098/749e95e4-43bc-4d2d-b2d0-3e84073e62e5)
